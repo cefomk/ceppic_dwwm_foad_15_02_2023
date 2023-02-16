@@ -1,4 +1,4 @@
-# FOAD Jeudi 15/02/2023
+# FOAD Mercredi 15/02/2023
 
 ## Instructions
 
